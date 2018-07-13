@@ -1,0 +1,44 @@
+body{
+	background-color: #000000;
+}
+img{
+	width: 410px;
+
+}
+label{
+	display: block;
+	float: left;
+}
+label,input{
+	width: 80px;
+	font-size: 25px;
+	font-family:xiomara;
+	margin: 3px 0;
+	color:red;
+}
+a{
+
+}
+#primeiroNome{
+
+}
+
+div{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+}
+.teste{
+	width: 150px;
+	height: 1500px;
+	background-color: orange;
+}
+#azul{
+	width: 250px;
+	height: 250px;
+	background-color: black;
+}
+
+
+
+

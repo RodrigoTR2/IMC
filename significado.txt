@@ -1,0 +1,8 @@
+CSS:Cascading Style Sheets.
+HTML:Serve para tags (linguagem).
+XML:(linguagem).
+Sintax:É a forma de escrever em uma determinada linguagem.
+
+CSS=seletor{
+             propriedade:valor
+}
